@@ -19,21 +19,14 @@ Document trong MongoDB có cấu trúc tương tự như kiểu dữ liệu JSON
 Để rõ hơn chúng ta sẽ so sánh MongoDB và một hệ quản trị CSDL khác nhé.
 So sánh giữa RDBMS và MongoDB
 ```
-RDBMS 	          MongoDB
-Database 	       Database
-Table 	          Collection
-Tuple/Row 	       Document
-column 	          Field
-Table Join 	       Embedded Documents
-Primary Key 	    Primary Key (mặc định là _id)
+RDBMS 	          | MongoDB
+Database 	       | Database
+Table 	          | Collection
+Tuple/Row 	       | Document
+column 	          | Field
+Table Join 	       | Embedded Documents
+Primary Key 	    | Primary Key (mặc định là _id)
 ```
-
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
 
 Để rõ ràng hơn chúng ta sẽ tìm hiểu thông qua một ví dụ về cách lưu trữ trong MongoDB nhé.
 ```
