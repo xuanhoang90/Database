@@ -68,3 +68,5 @@ Máy chủ không có hệ quản trị CSDL, trường hợp này thường b�
 # Lời kết
 
 Với nhưng ưu điểm của MongoDB thì trong tương lai nó sẽ thay thế các hệ quản trị CSDL, tuy nhiên theo bản thân mình nghĩ thì điều này cũng khó có thể xảy ra, bởi vì các ứng dụng web vừa và nhỏ nếu được xây dựng bằng MYSQL thì sẽ nhanh hơn nhiều MongoDB. Vì thế hãy cân nhắc trước khi sử dụng nhé. Bài tiếp theo chúng ta sẽ tìm hiểu dịch vụ mongolab.com nhé, đây là một dịch vụ theo mình khá tiện dùng đẻ học mongodb.
+
+_http://freetuts.net/tong-quan-ve-mongodb-203.html
