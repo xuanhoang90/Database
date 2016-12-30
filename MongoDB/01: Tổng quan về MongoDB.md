@@ -27,6 +27,14 @@ column 	          Field
 Table Join 	       Embedded Documents
 Primary Key 	    Primary Key (mặc định là _id)
 ```
+
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 Để rõ ràng hơn chúng ta sẽ tìm hiểu thông qua một ví dụ về cách lưu trữ trong MongoDB nhé.
 ```
 {
